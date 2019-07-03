@@ -14,7 +14,7 @@ $ apt install git
 
 $ pip2 install requests
 
-$ git clone https://github.com/YizukaaChan/FB-Guard.git
+$ git clone https://github.com/ZkydenD077/FB-Guard.git
 
 $ cd fb-guard
 
